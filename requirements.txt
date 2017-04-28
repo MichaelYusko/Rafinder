@@ -1,0 +1,8 @@
+flask
+flask-restful
+peewee
+isort
+flake8
+passlib
+python-dotenv
+gunicorn
